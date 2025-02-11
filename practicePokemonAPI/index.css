@@ -1,0 +1,13 @@
+#clock-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#clock {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    text-align: center;
+    font-weight: bold;
+     color: green;
+}
