@@ -1,2 +1,2 @@
-# here I am learning the how to use github and creating projects fot javascript using API's
+# Here I am learning the how to use github and creating projects fot javascript using API's
 yesteerday I finished the pokemon api and the the current clock...
