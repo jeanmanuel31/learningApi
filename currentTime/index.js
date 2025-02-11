@@ -7,10 +7,9 @@ function updateClock() {
     const timeString = `${hours}:${minutes}:${seconds}`;
     document.getElementById("clock").textContent = timeString;
 
-   // console.log(timeString);
-
-
+  //  console.log(timeString);
 }
 
 updateClock();
+//set interval helps you to update the function every second (1000 miliseconds = 1 second)
 setInterval(updateClock, 1000);
